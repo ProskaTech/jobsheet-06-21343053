@@ -1,5 +1,7 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Penjelasan Jobsheet 06
+
+Nama: Khalilul Afwan
+
+NIM: 21343053
+
+Penjelasan: Pada Jobsheet 6 ini diajarkan tentang Decision Making, yaitu membuat keputusan berdasarkan kondisi yang ada pada Source Code. Dalam materi ini terbagi menjadi dua, yaitu IF ELSE dan Switch Case. Penggunaan metode IF Else terdapat pada Source Code PercabanganIF, PercabanganIFELSE, Grade, dan Tugas 1 a & b. Sedangkan penggunaan metode Switch Case terdapat pada Source Code Grade2 dan Tugas 2 b. Kemudian pada jobsheet 6 ini juga mengimplementasikan import untuk dapat memproses data yang diinput dan menghasilkan output ke layar. Untuk Decision Making, import yang digunakan adalah java.util.Scanner; agar dapat membaca data masukan lalu memprosesnya dan menampilkan hasil output ke layar.
